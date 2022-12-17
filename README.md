@@ -10,12 +10,11 @@ Telegram OTP Bot for your private use or customize OTP Bot to server any purpose
 
 # For Customization or Private OTP Bots Contact me on my new Chennel and Server
 
-    Discord Server: https://discord.gg/57kGAfJz
-    Discord Server:  https://discord.gg/J5mZQhNV
+    Discord Server: https://discord.gg/CVgscsvRRx
     Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
     DM Discord: Coder089#8305
     DM Telegram: @Coder089
-Discord Server:  https://discord.gg/J5mZQhNV
+Discord Server:  https://discord.gg/CVgscsvRRx
 
 Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
 

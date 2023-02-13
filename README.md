@@ -2,8 +2,8 @@
 Telegram OTP Bot for your private use or customize OTP Bot to server any purpose.
 
 
-![See the bot in action](https://user-images.githubusercontent.com/117955242/204097808-bce40b2c-f9ab-4671-8f1f-4f285d899926.png)
-
+![See the bot in action under Bank Mode](https://user-images.githubusercontent.com/117955242/218443550-f28fed1b-b945-4061-993e-0f91ddd95fd3.jpeg)
+![See the bot in action under Bank Mode](https://user-images.githubusercontent.com/117955242/218444021-5e9b52e6-01a4-4fa7-8c9a-2ee4d3f9207f.png)
 
     Send command: "/start" to start grabbing information.
 
@@ -30,5 +30,3 @@ Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
     Bitcoin: bc1qw9rzd4ze0c43fklj2hnlzrtw3ps7mx7w5pl7mk
     BNB: bnb19l2tz4y5jlwdtrk0v9jkenhmv05kuy2y327mv9
     LTC: ltc1qs89vzwyete5jnn5mcpqp2zvrlzv8gdwq0a4tt6
-  
-  

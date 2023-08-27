@@ -10,18 +10,18 @@ Telegram OTP Bot for your private use or customize OTP Bot to server any purpose
 
 # For Customization or Private OTP Bots Contact me on my new Chennel and Server
 
-    Discord Server: https://discord.gg/CVgscsvRRx
-    Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
+    Discord Server:  https://discord.gg/CVgscsvRRx
+    Telegram Channel https://t.me/+I2QcslRt8HM2YTEx
     DM Discord: Coder089#8305
-    DM Telegram: @Coder089
-Discord Server:  https://discord.gg/CVgscsvRRx
+    DM Telegram: @Coder0089
+Discord Server: https://discord.gg/CVgscsvRRx
 
-Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
-
+Telegram Channel https://t.me/+I2QcslRt8HM2YTEx
 
     (Old Channels are Banned)
     https://discord.gg/ghHtyDevI
     https://t.me/+uftsns3gsKhdLfc1tUy
+    https://t.me/+fzkvq8FdnQY2ZmNh
 
 
 # Buy me coffee: 

@@ -6,7 +6,7 @@ Telegram OTP Bot for your private use or customize OTP Bot to server any purpose
 
     Send command: "/start" to start grabbing information.
 
-# For Customization or Private OTP Bots Contact me on my new Chennel and Server.
+# For Customization or Private OTP Bots Contact me on my new Chennel and Server. 
 
     Discord Server:  https://discord.gg/CVgscsvRRx
     Telegram Channel https://t.me/+I2QcslRt8HM2YTEx
